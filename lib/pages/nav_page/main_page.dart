@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:travel_app/pages/nav_page/bar_item.dart';
-import 'package:travel_app/pages/nav_page/home_page.dart';
+import 'package:travel_app/pages/home_page.dart';
 import 'package:travel_app/pages/nav_page/my_page.dart';
 import 'package:travel_app/pages/nav_page/search_pages.dart';
 class MainPage extends StatefulWidget {
